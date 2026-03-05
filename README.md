@@ -53,3 +53,5 @@ src/main/java/dev/sneha/movies
 └── model
     ├── Movie.java
     └── Review.java
+
+<img width="999" height="859" alt="image" src="https://github.com/user-attachments/assets/069ba9af-8765-4c35-aa13-373222e64f37" />
