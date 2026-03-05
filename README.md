@@ -53,6 +53,3 @@ src/main/java/dev/sneha/movies
 └── model
     ├── Movie.java
     └── Review.java
-
-
-    
